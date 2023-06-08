@@ -375,12 +375,9 @@ form{
    grid-template-columns: repeat(2,1fr);
    padding: 0 30px;
 }
-.list-socialicon{
-   margin: 10px 0px;
-   color:  #808080;
-}
 .socialicon{
-   padding: 5px;
+   color:  #808080;
+   padding: 20px 5px;
    font-size: medium;
 }
 a:visited{
